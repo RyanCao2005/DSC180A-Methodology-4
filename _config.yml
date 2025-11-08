@@ -1,3 +1,5 @@
 title: DSC 180A — Methodology 4
 description: Task 2 site
-theme: cayman  
+theme: minima
+minima:
+  skin: dark
